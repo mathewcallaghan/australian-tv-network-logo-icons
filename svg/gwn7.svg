@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg4"
+   version="1.1"
+   width="512"
+   height="512">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <g
+     id="g854"
+     transform="matrix(2.4877098,0,0,2.4877098,-170.63321,-812.62797)">
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.00205541"
+       id="path2839"
+       d="m 95.02923,427.89663 v -8.25715 h 19.89033 v 16.92039 c -3.80763,2.47262 -7.17473,4.15566 -10.10147,5.04904 -2.9267,0.89344 -6.398038,1.34009 -10.413948,1.34009 -4.944175,0 -8.974315,-0.80311 -12.090418,-2.40945 -3.116224,-1.60631 -5.531468,-3.99775 -7.245791,-7.17422 -1.714354,-3.17654 -2.571561,-6.82232 -2.571561,-10.93736 0,-4.33164 0.937722,-8.09922 2.813076,-11.30283 1.875384,-3.20358 4.622115,-5.63561 8.240282,-7.29608 2.822503,-1.28136 6.620613,-1.92209 11.394302,-1.92215 4.603142,6e-5 8.046048,0.39699 10.328718,1.19118 2.28262,0.7942 4.17697,2.026 5.68292,3.69544 1.50596,1.66951 2.63779,3.78566 3.39563,6.34854 l -12.41728,2.11168 c -0.51149,-1.49803 -1.37813,-2.64412 -2.599932,-3.43826 -1.221867,-0.79413 -2.779964,-1.19118 -4.674201,-1.19121 -2.822562,3e-5 -5.072093,0.93406 -6.7485,2.80205 -1.676498,1.868 -2.514732,4.82341 -2.514732,8.86628 0,4.29555 0.84772,7.36374 2.543101,9.20466 1.695441,1.84101 4.058599,2.76144 7.089474,2.76144 1.439696,0 2.813076,-0.19844 4.120141,-0.59561 1.307099,-0.39696 2.803589,-1.07389 4.489579,-2.03044 v -3.73603 z" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.00205541"
+       id="path2841"
+       d="m 115.67668,401.89769 h 12.41049 l 4.47358,22.62556 6.52268,-22.62556 h 12.38168 l 6.55157,22.62556 4.47357,-22.62556 h 12.35277 l -9.32234,40.4995 h -12.81455 l -7.41742,-25.49865 -7.38854,25.49865 h -12.8146 z" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.00205541"
+       id="path2843"
+       d="m 176.25711,401.83507 h 12.18927 l 15.90666,22.39206 v -22.39206 h 12.30456 v 40.47686 h -12.30456 l -15.82017,-22.22638 v 22.22638 h -12.27576 z" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.18466742,0,0,0.18466742,217.84326,401.83696)"
+       id="g2872">
+      <polygon
+         style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd"
+         points="176.033,300 285.124,106.611 220.661,0 47.107,300 "
+         id="polygon2859" />
+      <polygon
+         style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd"
+         points="0,0 61.983,106.611 151.24,106.611 213.223,0 "
+         id="polygon2861" />
+    </g>
+    <path
+       id="path2878"
+       d="M 75.704879,457.29084 V 443.96613 H 216.40311 l -6.33142,13.32471 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.00205541" />
+  </g>
+</svg>
