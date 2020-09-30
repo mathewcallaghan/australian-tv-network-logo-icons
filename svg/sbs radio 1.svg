@@ -22,7 +22,7 @@
             <path d="M332.754 256H339v13h-6.246zm0 0"/>
         </clipPath>
     </defs>
-    <g fill="#010101">
+    <g >
         <g transform="translate(-3759.646 -2766.262) scale(11.32523)">
             <use height="100%" width="100%" xlink:href="#a" x="350.536" y="280.197"/>
             <use height="100%" width="100%" xlink:href="#b" x="356.594" y="280.197"/>

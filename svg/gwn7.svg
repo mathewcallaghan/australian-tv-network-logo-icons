@@ -1,59 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg4"
-   version="1.1"
-   width="512"
-   height="512">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8" />
-  <g
-     id="g854"
-     transform="matrix(2.4877098,0,0,2.4877098,-170.63321,-812.62797)">
-    <path
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.00205541"
-       id="path2839"
-       d="m 95.02923,427.89663 v -8.25715 h 19.89033 v 16.92039 c -3.80763,2.47262 -7.17473,4.15566 -10.10147,5.04904 -2.9267,0.89344 -6.398038,1.34009 -10.413948,1.34009 -4.944175,0 -8.974315,-0.80311 -12.090418,-2.40945 -3.116224,-1.60631 -5.531468,-3.99775 -7.245791,-7.17422 -1.714354,-3.17654 -2.571561,-6.82232 -2.571561,-10.93736 0,-4.33164 0.937722,-8.09922 2.813076,-11.30283 1.875384,-3.20358 4.622115,-5.63561 8.240282,-7.29608 2.822503,-1.28136 6.620613,-1.92209 11.394302,-1.92215 4.603142,6e-5 8.046048,0.39699 10.328718,1.19118 2.28262,0.7942 4.17697,2.026 5.68292,3.69544 1.50596,1.66951 2.63779,3.78566 3.39563,6.34854 l -12.41728,2.11168 c -0.51149,-1.49803 -1.37813,-2.64412 -2.599932,-3.43826 -1.221867,-0.79413 -2.779964,-1.19118 -4.674201,-1.19121 -2.822562,3e-5 -5.072093,0.93406 -6.7485,2.80205 -1.676498,1.868 -2.514732,4.82341 -2.514732,8.86628 0,4.29555 0.84772,7.36374 2.543101,9.20466 1.695441,1.84101 4.058599,2.76144 7.089474,2.76144 1.439696,0 2.813076,-0.19844 4.120141,-0.59561 1.307099,-0.39696 2.803589,-1.07389 4.489579,-2.03044 v -3.73603 z" />
-    <path
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.00205541"
-       id="path2841"
-       d="m 115.67668,401.89769 h 12.41049 l 4.47358,22.62556 6.52268,-22.62556 h 12.38168 l 6.55157,22.62556 4.47357,-22.62556 h 12.35277 l -9.32234,40.4995 h -12.81455 l -7.41742,-25.49865 -7.38854,25.49865 h -12.8146 z" />
-    <path
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.00205541"
-       id="path2843"
-       d="m 176.25711,401.83507 h 12.18927 l 15.90666,22.39206 v -22.39206 h 12.30456 v 40.47686 h -12.30456 l -15.82017,-22.22638 v 22.22638 h -12.27576 z" />
-    <g
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.18466742,0,0,0.18466742,217.84326,401.83696)"
-       id="g2872">
-      <polygon
-         style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd"
-         points="176.033,300 285.124,106.611 220.661,0 47.107,300 "
-         id="polygon2859" />
-      <polygon
-         style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd"
-         points="0,0 61.983,106.611 151.24,106.611 213.223,0 "
-         id="polygon2861" />
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+    <g font-weight="400" font-family="Arial Black">
+        <path style="line-height:125%;-inkscape-font-specification:'Arial Black';text-align:start" d="M65.772 251.855v-20.542h49.481v42.093c-9.472 6.151-17.848 10.338-25.13 12.56-7.28 2.223-15.916 3.335-25.906 3.335-12.3 0-22.326-1.998-30.078-5.994-7.752-3.996-13.76-9.946-18.025-17.848-4.265-7.902-6.397-16.972-6.397-27.209 0-10.776 2.333-20.148 6.998-28.118 4.665-7.97 11.498-14.02 20.5-18.15 7.02-3.188 16.47-4.782 28.345-4.782 11.451 0 20.016.987 25.695 2.963 5.678 1.976 10.39 5.04 14.137 9.193 3.747 4.154 6.562 9.418 8.448 15.794l-30.89 5.253c-1.273-3.727-3.43-6.578-6.469-8.554-3.04-1.975-6.916-2.963-11.628-2.963-7.022 0-12.618 2.324-16.788 6.97-4.17 4.648-6.256 12-6.256 22.057 0 10.687 2.109 18.32 6.326 22.899 4.218 4.58 10.097 6.87 17.637 6.87 3.581 0 6.998-.494 10.25-1.482 3.251-.988 6.974-2.672 11.168-5.051v-9.294zm51.365-64.678h30.873l11.13 56.286 16.226-56.286h30.802l16.298 56.286 11.13-56.286h30.73l-23.192 100.75h-31.879l-18.452-63.432-18.38 63.433h-31.88zm150.706-.156h30.324l39.57 55.705v-55.705h30.611v100.695h-30.61l-39.356-55.293v55.293h-30.539z"/>
+        <path d="M452.167 324.845l50.116-88.842-29.614-48.977-79.73 137.82zm-80.869-137.819l28.475 48.977h41.004l28.475-48.977z" clip-rule="evenodd" fill-rule="evenodd"/>
+        <path d="M17.699 324.979V291.83h350.016l-15.75 33.148z" style="line-height:125%;-inkscape-font-specification:'Arial Black';text-align:start"/>
     </g>
-    <path
-       id="path2878"
-       d="M 75.704879,457.29084 V 443.96613 H 216.40311 l -6.33142,13.32471 z"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.00205541" />
-  </g>
 </svg>
