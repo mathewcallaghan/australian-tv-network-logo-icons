@@ -1,5 +1,5 @@
 #!/bin/sh
-# Requires Inkscape, pngqaunt, ImageMagick.
+# Requires Inkscape, pngqaunt.
 
 set -ex
 
