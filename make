@@ -1,4 +1,5 @@
 #!/bin/sh
+#
 # Requires Inkscape 1.0+, pngqaunt.
 
 set -ex
