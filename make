@@ -4,6 +4,7 @@
 
 set -ex
 
+rm -fr black/* white/* colour/*
 mkdir -pv black white colour
 
 # White
