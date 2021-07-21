@@ -16,7 +16,7 @@ find ./svg/white -type f -name '*.svg' -exec inkscape --export-type=pdf {} +
 
 mv svg/white/*.pdf pdf/white
 
-#Black
+# Black
 find ./svg/black -type f -name '*.svg' -exec inkscape --export-type=png {} +
 
 mv svg/black/*.png black
@@ -35,7 +35,7 @@ find ./svg/colour -type f -name '*.svg' -exec inkscape --export-type=pdf {} +
 
 mv svg/colour/*.pdf pdf/colour
 
-# Compress
+# Compress png icons.
 find ./ -type f -name '*.png' -exec pngquant --force --ext .png {} +
 
 exit
