@@ -4,8 +4,8 @@
 
 set -ex
 
-rm -fr black/* white/* colour/* pdf/*
-mkdir -pv black white colour pdf/colour pdf/black pdf/white
+rm -fr black/* white/* colour/* outline/* pdf/*
+mkdir -pv black white colour outline pdf/colour pdf/black pdf/white pdf/outline
 
 # White
 find ./svg/white -type f -name '*.svg' -exec inkscape --export-type=png {} +
@@ -34,6 +34,15 @@ mv svg/colour/*.png colour
 find ./svg/colour -type f -name '*.svg' -exec inkscape --export-type=pdf {} +
 
 mv svg/colour/*.pdf pdf/colour
+
+# Outline
+find ./svg/outline -type f -name '*.svg' -exec inkscape --export-type=png {} +
+
+mv svg/outline/*.png outline
+
+find ./svg/outline -type f -name '*.svg' -exec inkscape --export-type=pdf {} +
+
+mv svg/outline/*.pdf pdf/outline
 
 # Compress png icons.
 find ./ -type f -name '*.png' -exec pngquant --force --ext .png {} +
