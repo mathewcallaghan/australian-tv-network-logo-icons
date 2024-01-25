@@ -1,6 +1,6 @@
 # Australian TV and Digital Radio logo icons
 
-These flat icons are designed with Kodi and Tvheadend in mind but would be useful wherever these types of graphics are needed.
+These icons are crafted with Kodi and Tvheadend in focus, yet they prove useful in various contexts where similar graphics are required
 
 ## Missing Icons or Updates
 
