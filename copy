@@ -1,0 +1,28 @@
+#!/bin/bash
+
+read -p "Enter the filename to be copied (with extension): " old_name
+read -p "Enter the new filename (with extension): " new_name
+
+# Function to copy files
+copy_files() {
+    local dir=$1
+    for filepath in "$dir"/*; do
+        if [ -d "$filepath" ]; then
+            # If it's a directory, call the function recursively
+            copy_files "$filepath"
+        elif [ -f "$filepath" ] && [[ "$filepath" == *.svg ]]; then
+            # If it's a file and ends with .svg
+            filename=$(basename -- "$filepath")
+            if [[ "$filename" == "$old_name" ]]; then
+                new_filepath="${dir}/${new_name}"
+                cp "$filepath" "$new_filepath"
+                echo "Copied: $filepath to $new_filepath"
+            fi
+        fi
+    done
+}
+
+# Start copying from the svg directory
+copy_files "svg"
+
+echo "Copying complete."

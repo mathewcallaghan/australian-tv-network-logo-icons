@@ -1,0 +1,29 @@
+#!/bin/bash
+
+read -p "Enter the filename to be replaced (with extension): " old_name
+read -p "Enter the new filename (with extension): " new_name
+
+# Function to rename files
+rename_files() {
+    local dir=$1
+    for filepath in "$dir"/*; do
+        if [ -d "$filepath" ]; then
+            # If it's a directory, call the function recursively
+            rename_files "$filepath"
+        elif [ -f "$filepath" ] && [[ "$filepath" == *.svg ]]; then
+            # If it's a file and ends with .svg
+            filename=$(basename -- "$filepath")
+            if [[ "$filename" == "$old_name" ]]; then
+                new_filepath="${dir}/${new_name}"
+                mv "$filepath" "$new_filepath"
+                echo "Renamed: $filepath to $new_filepath"
+            fi
+        fi
+    done
+}
+
+# Start renaming from the svg directory
+rename_files "svg"
+
+echo "Renaming complete."
+
