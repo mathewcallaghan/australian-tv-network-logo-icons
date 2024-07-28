@@ -73,6 +73,9 @@ File Name
 9gem
 9gem sydney
 9go! brisbane
+9go!hd melbourne
+9go!hd
+9go!hd sydney
 9go! melbourne
 9go! newcastle
 9go!
@@ -94,7 +97,6 @@ File Name
 9rush melbourne
 9rush
 9rush sydney
-9 sydney
 abc brisbane
 abc canberra
 abc classic
@@ -137,6 +139,8 @@ bold newcastle
 c31
 ch9 canberra
 ch9 wollongong
+channel 9 melbourne
+channel 9 sydney
 double j
 extra
 gecko
@@ -154,7 +158,6 @@ nbn: newcstl cent cst
 nbn
 nickelodeon
 nine newcastle
-nine
 nitv hd
 nitv
 nitv v1
@@ -194,6 +197,7 @@ sbs popdesi
 sbs radio 1
 sbs radio 2
 sbs radio 3
+sbs south asian
 sbs viceland hd
 sbs viceland nt
 sbs viceland qld
@@ -226,3 +230,4 @@ win
 win: tas mt gambier
 win: wgong canberra
 win wollongong
+you.tv
