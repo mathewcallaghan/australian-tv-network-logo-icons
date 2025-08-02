@@ -8,6 +8,7 @@ File Name
 10hd newcastle
 10 hd south coast
 10 hd
+10 hd tas
 10 newcastle
 10 peach central - south
 10 peach comedy
@@ -16,6 +17,7 @@ File Name
 10 shake
 10 south coast
 10
+10 tas
 44 adelaide
 7bravo melbourne
 7bravo
@@ -30,10 +32,12 @@ File Name
 7food network
 7hd brisbane
 7hd canberra
+7hd launceston
 7hd melbourne
 7hd newcastle
 7hd sth coast
 7hd sydney
+7 launceston
 7mate brisbane
 7mate canberra
 7mate central
@@ -84,6 +88,7 @@ File Name
 9go! sydney
 9hd brisbane
 9hd canberra
+9hd launceston
 9hd melbourne
 9hd newcastle
 9hd south coast
@@ -112,6 +117,7 @@ abc hd sa
 abc hd tas
 abc hd vic
 abc hd wa
+abc hobart
 abc jazz
 abc kids-abc family
 abc kids listen
@@ -176,7 +182,7 @@ prime: nsw & vic
 prime: orange wagga
 racing.com
 sbn
-sbs arabic24
+sbs arabic
 sbs chill
 sbs food
 sbs hd nsw
