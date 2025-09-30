@@ -5,7 +5,7 @@
 set -ex
 
 	# Remove existing directories and their contents
-	rm -fr black/* white/* colour/* outline/* pdf/*
+	rm -fr black/* white/* colour/* outline/*
 
 	# Create new directories
 	mkdir -pv black white colour outline pdf/colour pdf/black pdf/white pdf/outline
@@ -24,8 +24,26 @@ set -ex
 		local source_dir="$1"
 		local destination_dir="$2"
 
-		find "$source_dir" -type f -name '*.svg' -exec inkscape --export-type=pdf {} +
-		mv "$source_dir"/*.pdf "$destination_dir"
+		mkdir -p "$destination_dir"
+
+		# Remove PDFs whose SVG no longer exists
+		for pdf in "$destination_dir"/*.pdf; do
+			[ -e "$pdf" ] || continue
+			local base=$(basename "$pdf" .pdf)
+			if [ ! -f "$source_dir/$base.svg" ]; then
+				rm "$pdf"
+			fi
+		done
+
+		# Export only if SVG is newer than PDF (or PDF doesn't exist)
+		for svg in "$source_dir"/*.svg; do
+			[ -e "$svg" ] || continue
+			local base=$(basename "$svg" .svg)
+			local pdf="$destination_dir/$base.pdf"
+			if [ ! -f "$pdf" ] || [ "$svg" -nt "$pdf" ]; then
+				inkscape --export-type=pdf --export-filename="$pdf" "$svg"
+			fi
+		done
 	}
 
 	# Create White icons
